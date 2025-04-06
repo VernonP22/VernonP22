@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I had a short comedy stint on youtube and Tiktok. I have recently taken up the hobby of baking and creating culinary works of art. I love to travel and experience new places and areas/meeting new people. I dream is to one day be able to travel the world and experience the various unique cultures and cuisines across the globe.
 - My goal for 2025: Land my first data analyst position with a company utilizing data analysis tools and techniques to collaborate and assist on informed business decisions by identifying patterns, trends, and insights. Presenting my findings through researched reports, dashboards, and visualizations to increase company productivity and success.
 -->
+Portolio: https://public.tableau.com/app/profile/vernon.paul/vizzes

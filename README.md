@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Vernon, an aspiring business intelligence analyst
-## Hey 👋, This is Vernon Paul III
+## Hi there 👋, I'm Vernon, An aspiring Business Intelligence Analyst
+## Hey 👋, Welcome to my GitHub Page!
 [![Gmail Badge](https://img.shields.io/badge/-vernonlpaul@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vernonlpaul@gmail.com)](mailto:vernonlpaul@gmail.com) 
 [![Linkedin Badge]https://www.linkedin.com/in/vernon-paul-iii/
 ## Some of my Github Stats
